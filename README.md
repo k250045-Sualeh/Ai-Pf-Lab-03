@@ -13,7 +13,8 @@ _This is Italic_
 - list 3
 - <br/>
 Ordered list
-  1.Pf-lab1
-  2.Pf-lab2
+  1. Pf-lab1
+  2. pf-lab2
+<br/>
 learning git hub
 
